@@ -1,5 +1,4 @@
 #STRING funtions
-from variables import myStr
 
 myStr = 'hello world'
 
@@ -23,7 +22,6 @@ print(myStr.count(sub))
 print(myStr.startswith('hello'))
 
 #endswith
-
 print(myStr.endswith('d'))
 
 #split to list
